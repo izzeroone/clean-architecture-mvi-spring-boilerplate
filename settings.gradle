@@ -1,4 +1,5 @@
 rootProject.name = 'example'
 include 'entity'
 include 'console'
+include 'domain'
 
